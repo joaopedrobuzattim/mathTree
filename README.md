@@ -1,5 +1,5 @@
 <h1 align="center">
-    :heavy_division_sign: <strong> Math Tree </strong> :page_facing_up:
+    :heavy_division_sign: <strong> Math Tree </strong> :evergreen_tree:
 </h1>
 
 
@@ -19,14 +19,13 @@
 Resize the dimensions of an awesome tree with an algorithim that uses Pascal's Triangle.
 
 
-## 🛠 Tecnologias
-Este projeto foi desenvolvido com as seguintes tecnologias
+## 🛠 Technologies
 
 - JavaScript
 - HTML
 - CSS
 
-## :closed_book: Instalação
+## :closed_book: Installing
 
 ```bash
 # Clone this repository
