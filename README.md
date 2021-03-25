@@ -40,7 +40,7 @@ $ npm run build
 # Navigate into the frontend directory
 $ cd frontend
 
-## Run index file 
+# Run index file 
 $ broswer_name index.html
 
 ```
