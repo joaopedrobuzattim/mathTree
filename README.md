@@ -37,5 +37,11 @@ $ npm install
 # Run build command
 $ npm run build
 
+# Navigate into the frontend directory
+$ cd frontend
+
+## Run index file 
+$ broswer_name index.html
+
 ```
 
