@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Train+One&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section class="container">
+      <div class="sidebar">
+        <div class="logo">
+          <h2>Grow Me</h2>
+          <img src="images/tree.svg" />
+        </div>
+
+        <div class="slider-container">
+          <input
+            type="range"
+            min="0"
+            max="16"
+            value="0"
+            id="slider"
+            class="slider"
+          />
+        </div>
+
+        <div class="git-container">
+          <a href=""><img src="images/github.svg" /></a>
+        </div>
+      </div>
+
+      <div id="main" class="main">
+        <table id="table"></table>
+      </div>
+    </section>
+    <script src="js/bundle.js"></script>
+  </body>
+</html>
